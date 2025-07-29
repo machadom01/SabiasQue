@@ -1,0 +1,19 @@
+/*
+  Localizable.strings
+  SabiasQue
+
+  Created by Ramiro Perez on 7/17/25.
+  
+*/
+
+"bio_d1" = "Sabías que... Las jirafas poseen exactamente el mismo número de vertebras en el cuello que los humanos, es decir, solo siete, pero cada una de ellas puede medir hasta 25 centímetros de longitud, permitiendo su impresionante altura sin alterar la estructura básica vertebral.";
+"bio_d2" = "Sabías que... Los pulpos cuentan con tres corazones en su anatomía: dos se encargan de bombear sangre a las branquias para oxigenarla, mientras que el tercero distribuye la sangre oxigenada al resto del cuerpo, adaptándose a su vida marina activa y cambiante.";
+"bio_d3" = "Sabías que... El ADN humano comparte alrededor del 50% de similitud genética con el de un plátano, lo que ilustra la evolución compartida desde acestros comunes antiguos, destacando cómo genes básicos para funciones celulares se conservan a través de millones de años en diferentes especies.";
+
+"ast_d1" = "Sabías que... Los agujeros negros pueden \"comer\" estrellas enteras? Cuando una estrella se acerca demasiado a un agujero negro, la intensa gravedad puede desgarrarla, creando un fenómeno llamado \"disco de acreción\", donde la materia se calienta y brilla intensamente.";
+"ast_d2" = "Sabías que... Hay un planeta hecho de diamante? 55 Cancri e es un exoplaneta que se cree que tiene un núcleo de carbono y puede contener grandes cantidades de diamante, lo que lo convierte en un lugar extremadamente valioso en términos de recursos.";
+"ast_d3" = "Sabías que... El universo se está expandiendo a un ritmo acelerado? Esta expansión se debe a una misteriosa fuerza llamada \"energía oscura\", que compone aproximadamente el 68% del universo y sigue siendo uno de los mayores misterios de la cosmología moderna.";
+
+"his_d1" = "Sabías que... Cleopatra vivió más cerca de la llegada del hombre a la luna que de la construcción de las pirámides de Egipto? Cleopatra VII gobernó Egipto en el 51 a.C., mientras que las pirámides se construyeron alrededor del 2500 a.C., lo que resalta la longevidad de la civilización egipcia.";
+"his_d2" = "Sabías que... Durante la Segunda Guerra Mundial, el ejército británico utilizó un \"ejército de fantasmas\"? Crearon un engaño con inflables, sonidos y falsos documentos para hacer creer al enemigo que tenían más tropas de las que realmente tenían, logrando confundir a los nazis.";
+"his_d3" = "Sabías que... El Imperio Mongol fue el más extenso de la historia? En su apogeo, abarcó más de 33 millones de kilómetros cuadrados, desde Europa del Este hasta Asia, y su influencia moldeó el comercio y la cultura en gran parte del mundo.";
